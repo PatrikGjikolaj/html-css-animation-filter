@@ -34,4 +34,9 @@
     filter: grayscale(100%);
 }
 /* Esercizio 7 completo */
+.ex-7-img:hover{
+    filter: blur(1px) grayscale(100%);
+    transition: 3s;
+}
+/* Esercizio 8 */
 
