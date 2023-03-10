@@ -45,3 +45,10 @@
     transition: 3s;
 }
 /* Esercizio 9 */
+.ex-9-img:hover{
+    filter: brightness(2) grayscale(100%);
+    border-radius: 20px;
+    scale: calc(3/2);
+    transition: 3s;
+}
+/* Esercizio 10 */
