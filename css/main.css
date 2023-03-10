@@ -21,3 +21,12 @@
     transition: 3s;
 }
 /* Esercizio 5 */
+.ex-5-square:hover{
+    scale: 2;
+    transition: 3s;
+}
+.ex-5-square:active{
+    scale: calc(1/2);
+    transition: 3s;
+}
+/* Esercizio 6 */
