@@ -67,3 +67,18 @@
     }
 }
 /* Esercizio 11 */
+.ex-11-icon:hover{
+    animation-name: mancapoco;
+    animation-duration: 2s;
+}
+@keyframes mancapoco{
+    0%{
+        rotate: 0deg;
+    }
+    90%{
+        rotate: 270deg;
+    }
+    100%{
+        rotate: 0deg;
+    }
+}
